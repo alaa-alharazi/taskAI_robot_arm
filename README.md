@@ -10,6 +10,7 @@ $ mkdir src
 $ cd src
 $ catkin_init_workspace
 $ cd ..
+$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 $ catkin_make
 ```
 ## install the arm package
